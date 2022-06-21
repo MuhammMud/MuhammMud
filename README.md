@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Muhammad Mudassir
-- 👀 I’m interested in learning Python and Data Analysis
-- 🌱 I’m currently learning Python and SQL
+- 👀 Aspiring Software Engineer/Data Analyst
+- 🌱 I’m currently learning FullStack Development, and working on personal projects
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me ...
+- 📫 How to reach me ... https://mmudassir.netlify.app
 
 <!---
 MuhammMud/MuhammMud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
