@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Muhammad Mudassir
-- 👀 Aspiring Software Engineer/Data Analyst
+- 👀 Aspiring PM/SWE
 - 🌱 Currently learning more about FullStack Development, and working on personal projects
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ... https://www.mmudassir.com
