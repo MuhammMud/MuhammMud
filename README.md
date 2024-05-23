@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Muhammad Mudassir
-- 👀 Aspiring PM/SWE
-- 🌱 Currently learning more about FullStack Development, and working on personal projects
+- 👀 I'm a consultant and PM who operates within the Tech and Finance spheres
+- 🌱 Currently learning more about fintech and working on personal projects
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ... https://www.mmudassir.com
 
